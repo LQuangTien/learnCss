@@ -1,2 +1,2 @@
 # learnCss
-Learn to use CSS
+I learn to use CSS
