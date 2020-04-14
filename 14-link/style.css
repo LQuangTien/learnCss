@@ -1,0 +1,14 @@
+.link{
+    background: #3f8fde;
+    font-family: arial, sans-serif;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    text-decoration: underline;
+    background: #084786;
+}
+.link:active{
+    color: red;
+}
