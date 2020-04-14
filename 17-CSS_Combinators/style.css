@@ -1,0 +1,15 @@
+.list-1 > .item{
+    border: 1px solid black;
+}
+.list-1 .item-2 + .item{
+    color: blue;
+}
+.list-2 .item-1 ~ .item {
+    font-weight: bold;
+}
+.List{
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
