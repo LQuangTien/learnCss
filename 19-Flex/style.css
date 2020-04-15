@@ -1,0 +1,8 @@
+.container{
+    height: 300px;
+    background: #DDD; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline; 
+}
