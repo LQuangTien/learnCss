@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.item{
+    padding: 50px;
+    background-color: #DDD;
+    border: 1px solid black;
+    flex-grow: 1;
+}
+@media (max-width: 600px){
+    .container{
+        flex-direction: column;
+    }
+}
